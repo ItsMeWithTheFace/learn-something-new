@@ -11,3 +11,8 @@ const localVariable := 1
 // GlobalVariable starts with a capital and gets exported
 const GlobalVariable := 2
 ```
+
+## Packages
+Popular packages to use:
+- testify (for assertion tests)
+- Go Modules (new standard for dependency management)
